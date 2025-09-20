@@ -7,11 +7,7 @@
 ---
 
 ## ✨ About Me  
-A curious explorer in the world of **Computer Networks, AI, and IoT**, always trying to connect technology with creativity.  
-Believes that every error message is just a new puzzle waiting to be solved (and probably solved with coffee ☕).  
-Passionate about transforming everyday ideas into **data-driven and secure tech solutions**.  
-Writes blogs to simplify complex IT topics so even non-techies can enjoy the magic of technology.  
-Currently building projects that blend **fun, functionality, and futuristic innovation** 🚀.  
+A curious explorer in the world of **Computer Networks, AI, and IoT**, always trying to connect technology with creativity.  Believes that every error message is just a new puzzle waiting to be solved (and probably solved with coffee ☕).  Passionate about transforming everyday ideas into **data-driven and secure tech solutions**.  Writes blogs to simplify complex IT topics so even non-techies can enjoy the magic of technology.  Currently building projects that blend **fun, functionality, and futuristic innovation** 🚀.  
 
 ---
 
@@ -95,7 +91,7 @@ Currently building projects that blend **fun, functionality, and futuristic inno
   <a href="https://facebook.com/gayankavishka" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/kavishkajayarathna" target="_blank">
+  <a href="www.linkedin.com/in/kavishka-jayarathna-1288b0274" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/g_a_y_a_n_kavishka" target="_blank">
