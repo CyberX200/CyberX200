@@ -1,62 +1,81 @@
 <h1 align="center">Hi 👋, I'm Kavishka Jayarathna</h1>
-<h3 align="center">Computer Networks student at the University of Wolverhampton | IT Professional at DFCC Bank PLC</h3>
 
 <p align="center">
-  <a href="https://github.com/cyberx200"><img src="https://komarev.com/ghpvc/?username=cyberx200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></a>
-  <a href="https://github-profile-trophy.vercel.app/?username=cyberx200"><img src="https://github-profile-trophy.vercel.app/?username=cyberx200" alt="Trophies" /></a>
+  <img src="https://komarev.com/ghpvc/?username=cyberx200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <strong>Computer Networks student passionate about AI, IoT, cybersecurity, and building innovative, real-world tech solutions. Exploring data-driven projects and sharing knowledge through blogs and tutorials.</strong>
+</p>
+
+<p align="center">
+  <a href="https://yourdomain.com/cv.pdf" target="_blank">
+    <button style="background-color:#0e75b6;color:white;border:none;padding:10px 20px;border-radius:5px;cursor:pointer;font-weight:bold;">📄 Download CV</button>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-Passionate about AI, cybersecurity, IoT, and data-driven solutions.  
-Writing IT-focused blogs and creating innovative tech projects to solve real-world problems.  
-
----
-
-## 🛠 Skills & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+<h2 align="center">🚀 Projects</h2>
+<p align="center">
+  <a href="https://github.com/yourusername/gesture-ai" target="_blank">
+    <div style="display:inline-block;background:#1e1e2f;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
+      <h3>AI Gesture Recognition</h3>
+      <p>Touchless interaction using hand gestures with AI.</p>
+    </div>
+  </a>
+  <a href="https://github.com/yourusername/smart-home-iot" target="_blank">
+    <div style="display:inline-block;background:#1e1e2f;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
+      <h3>Smart Home IoT</h3>
+      <p>IoT automation and monitoring solutions for smart homes.</p>
+    </div>
+  </a>
+  <a href="https://github.com/yourusername/asa-firewall" target="_blank">
+    <div style="display:inline-block;background:#1e1e2f;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
+      <h3>Firewall Security</h3>
+      <p>Network security configurations and simulations.</p>
+    </div>
+  </a>
 </p>
 
 ---
 
-## 📂 Projects
-- [AI Gesture Recognition System](https://github.com/yourusername/gesture-ai) – Touchless interaction using hand gestures.
-- [Smart Home IoT](https://github.com/yourusername/smart-home-iot) – IoT automation and monitoring.
-- [Firewall Security with ASA](https://github.com/yourusername/asa-firewall) – Network security configuration and simulation.
-
----
-
-## 📝 Blogs
-- [AI for Touchless Interaction](https://cyberxdiscussion.blogspot.com/)
-- [Smart Home IoT Projects](https://cyberxdiscussion.blogspot.com/)
-- [Cybersecurity Tutorials](https://cyberxdiscussion.blogspot.com/)
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">📝 Blogs</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberx200&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberx200&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://cyberxdiscussion.blogspot.com/" target="_blank">
+    <div style="display:inline-block;background:#0e75b6;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
+      <h3>AI for Touchless Interaction</h3>
+      <p>Step-by-step guide and demo of gesture recognition project.</p>
+    </div>
+  </a>
+  <a href="https://cyberxdiscussion.blogspot.com/" target="_blank">
+    <div style="display:inline-block;background:#0e75b6;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
+      <h3>Smart Home IoT Projects</h3>
+      <p>Designing and implementing IoT smart home automation systems.</p>
+    </div>
+  </a>
+  <a href="https://cyberxdiscussion.blogspot.com/" target="_blank">
+    <div style="display:inline-block;background:#0e75b6;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
+      <h3>Cybersecurity Tutorials</h3>
+      <p>Tips and tutorials for improving network security and protection.</p>
+    </div>
+  </a>
 </p>
 
 ---
 
-## 📫 Connect
+<h2 align="center">📫 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/kavishkajayarathna" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://facebook.com/gayankavishka" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="Facebook" width="30" height="30"/></a>
-  <a href="https://instagram.com/g_a_y_a_n_kavishka" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" width="30" height="30"/></a>
+  <a href="mailto:gayan17335kavishka@gmail.com" target="_blank">
+    <button style="background-color:#ea4335;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">📧 Gmail</button>
+  </a>
+  <a href="https://facebook.com/gayankavishka" target="_blank">
+    <button style="background-color:#1877f2;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">📘 Facebook</button>
+  </a>
+  <a href="https://linkedin.com/in/kavishkajayarathna" target="_blank">
+    <button style="background-color:#0e75b6;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">💼 LinkedIn</button>
+  </a>
+  <a href="https://instagram.com/g_a_y_a_n_kavishka" target="_blank">
+    <button style="background-color:#e4405f;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">📸 Instagram</button>
+  </a>
 </p>
