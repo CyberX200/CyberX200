@@ -4,19 +4,18 @@
   <img src="https://komarev.com/ghpvc/?username=cyberx200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <strong>Computer Networks student passionate about AI, IoT, cybersecurity, and building innovative, real-world tech solutions. Exploring data-driven projects and sharing knowledge through blogs and tutorials.</strong>
-</p>
+---
 
-<p align="center">
-  <a href="https://yourdomain.com/cv.pdf" target="_blank">
-    <button style="background-color:#0e75b6;color:white;border:none;padding:10px 20px;border-radius:5px;cursor:pointer;font-weight:bold;">📄 Download CV</button>
-  </a>
-</p>
+## ✨ About Me  
+A curious explorer in the world of **Computer Networks, AI, and IoT**, always trying to connect technology with creativity.  
+Believes that every error message is just a new puzzle waiting to be solved (and probably solved with coffee ☕).  
+Passionate about transforming everyday ideas into **data-driven and secure tech solutions**.  
+Writes blogs to simplify complex IT topics so even non-techies can enjoy the magic of technology.  
+Currently building projects that blend **fun, functionality, and futuristic innovation** 🚀.  
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
+## 🚀 Projects
 <p align="center">
   <a href="https://github.com/yourusername/gesture-ai" target="_blank">
     <div style="display:inline-block;background:#1e1e2f;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
@@ -40,42 +39,73 @@
 
 ---
 
-<h2 align="center">📝 Blogs</h2>
+## 📝 Blogs
 <p align="center">
-  <a href="https://cyberxdiscussion.blogspot.com/" target="_blank">
+  <a href="https://cyberxdiscussion.blogspot.com/2023/11/thumb-drive-what-is-it-what-potential.html" target="_blank">
     <div style="display:inline-block;background:#0e75b6;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
-      <h3>AI for Touchless Interaction</h3>
-      <p>Step-by-step guide and demo of gesture recognition project.</p>
+      <h3>Thumb Drive: What is it?</h3>
+      <p>Exploring the hidden potential of a small but mighty device.</p>
     </div>
   </a>
-  <a href="https://cyberxdiscussion.blogspot.com/" target="_blank">
+  <a href="https://cyberxdiscussion.blogspot.com/2024/07/httpscyberxdiscussion.blogspot.comexploring-flipper-zero-ultimate-tech.html" target="_blank">
     <div style="display:inline-block;background:#0e75b6;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
-      <h3>Smart Home IoT Projects</h3>
-      <p>Designing and implementing IoT smart home automation systems.</p>
+      <h3>Flipper Zero</h3>
+      <p>The ultimate hacker’s multi-tool for tech enthusiasts.</p>
     </div>
   </a>
-  <a href="https://cyberxdiscussion.blogspot.com/" target="_blank">
+  <a href="https://cyberxdiscussion.blogspot.com/2024/02/corning-unsung-hero-of-tech.html" target="_blank">
     <div style="display:inline-block;background:#0e75b6;color:white;padding:15px;margin:10px;border-radius:10px;width:250px;text-align:center;">
-      <h3>Cybersecurity Tutorials</h3>
-      <p>Tips and tutorials for improving network security and protection.</p>
+      <h3>Corning</h3>
+      <p>The unsung hero powering glass innovations in tech.</p>
     </div>
   </a>
 </p>
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+## 🛠 Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-00B8D9?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+---
+
+## 📬 Let’s Connect
+<p align="center">
+  <em>If you're interested in working with me, let’s talk — I’ll buy the coffee ☕!</em>
+</p>
+
 <p align="center">
   <a href="mailto:gayan17335kavishka@gmail.com" target="_blank">
-    <button style="background-color:#ea4335;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">📧 Gmail</button>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://facebook.com/gayankavishka" target="_blank">
-    <button style="background-color:#1877f2;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">📘 Facebook</button>
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/kavishkajayarathna" target="_blank">
-    <button style="background-color:#0e75b6;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">💼 LinkedIn</button>
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/g_a_y_a_n_kavishka" target="_blank">
-    <button style="background-color:#e4405f;color:white;border:none;padding:10px 20px;margin:5px;border-radius:5px;cursor:pointer;font-weight:bold;">📸 Instagram</button>
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://yourdomain.com/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Download%20CV-0e75b6?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
